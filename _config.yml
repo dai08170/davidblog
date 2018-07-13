@@ -9,20 +9,14 @@ keyword: "BY, BY Blog, ERP,Ecommerce,AI,Bigdata" #关键词
 url: "https://davidblog.github.io"          # 这个就是填写你的博客地址
 baseurl: ""      # 这个我们不用填写
 
-作者：David dai
-链接：https://www.jianshu.com/p/e68fba58f75c
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
+
 
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
 sidebar-about-description: "放眼看世界，IT风云录"
 sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
-作者：David Dai IT
-链接：https://www.jianshu.com/p/e68fba58f75c
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
+
 
 # SNS settings
 RSS: false
