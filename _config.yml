@@ -25,3 +25,20 @@ zhihu_username:     username
 github_username:    username
 facebook_username:  username
 jianshu_username:   jianshu_id
+
+
+# Disqus settings（https://disqus.com/）
+disqus_username: disqus_hulm1gyNJ1
+
+friends: [
+    {
+        title: "简书·BY",
+        href: "http://www.jianshu.com/u/e71990ada2fd"
+    },{
+        title: "Apple",
+        href: "https://apple.com"
+    },{
+        title: "Apple Developer",
+        href: "https://developer.apple.com/"
+    }
+]
